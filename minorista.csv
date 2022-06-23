@@ -1,0 +1,10 @@
+id,descripcion,tipo servicio,precio,cantidad,total del servio
+50,ruedo pantalon,Minorista,250.000000,2,500.000000
+53,cierre pantalon,Minorista,600.000000,4,2400.000000
+59,cambio cierre,Minorista,700.000000,2,1400.000000
+61,aplique capucha,Minorista,260.000000,1,260.000000
+62,ruedo pantalon,Minorista,250.000000,2,500.000000
+65,cambio cierre,Minorista,700.000000,2,1400.000000
+67,aplique capucha,Minorista,260.000000,1,260.000000
+69,cambio cierre,Minorista,700.000000,1,700.000000
+70,cierre pantalon,Minorista,600.000000,2,1200.000000

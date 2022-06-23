@@ -1,0 +1,27 @@
+id,descripcion,tipo servicio,precio,cantidad,total del servio
+61,aplique capucha,Minorista,260.000000,1,260.000000
+67,aplique capucha,Minorista,260.000000,1,260.000000
+63,boton camisa,Mayorista,145.000000,120,17400.000000
+54,boton camisa,Mayorista,145.000000,120,17400.000000
+72,boton camisa,Mayorista,145.000000,60,8700.000000
+60,cambio boton,Mayorista,70.000000,10,700.000000
+73,cambio boton,Mayorista,70.000000,25,1750.000000
+69,cambio cierre,Minorista,700.000000,1,700.000000
+65,cambio cierre,Minorista,700.000000,2,1400.000000
+59,cambio cierre,Minorista,700.000000,2,1400.000000
+53,cierre pantalon,Minorista,600.000000,4,2400.000000
+70,cierre pantalon,Minorista,600.000000,2,1200.000000
+52,costura correa mochila,Exportar,450.250000,60,27015.000000
+57,costura remera,Exportar,650.000000,60,39000.000000
+0,descripcion,Exportar,0.000000,0,0.000000
+71,ensamble bolso,Exportar,450.250000,40,18010.000000
+58,ensamble bolso,Exportar,450.250000,80,36020.000000
+64,ensamble bolso,Exportar,450.250000,50,22512.500000
+51,ensamble vestido,Mayorista,860.000000,25,21500.000000
+74,ensamble vestido,Mayorista,860.000000,15,12900.000000
+66,forro campera,Exportar,365.600006,150,54840.000000
+55,forro piloto,Exportar,324.660004,156,50646.960938
+62,ruedo pantalon,Minorista,250.000000,2,500.000000
+50,ruedo pantalon,Minorista,250.000000,2,500.000000
+56,vicera,Exportar,450.000000,180,81000.000000
+68,vicera,Exportar,450.000000,160,72000.000000
